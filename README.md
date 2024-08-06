@@ -1,4 +1,4 @@
-#**Digital Bone Box App**
+**Digital Bone Box App**
 
 **Overview**
 The Digital Bone Box App is an educational application designed for students to study the bones of the human body. This project aims to convert a pre-existing educational tool built in PowerPoint into an interactive, user-friendly mobile app.

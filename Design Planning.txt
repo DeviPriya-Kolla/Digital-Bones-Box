@@ -7,7 +7,7 @@ Gather information about the specific features, content, and user expectations.
 Document the requirements and get them approved by the client.
 
 
-Technology Selection:
+##Technology Selection:
 
 For the frontend, we have decided to use React, a popular JavaScript library for building user interfaces.
 For the backend, we have decided to use Python Flask, a lightweight and flexible web framework.
